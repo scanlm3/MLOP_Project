@@ -1,5 +1,4 @@
 # Using CPDMWU to Combine Adagrad and Sketched ALS 
-Chris Jerrett, Chris Vanderloo, Mathew Scanlon, Min Yue
 
 ## Files
 
